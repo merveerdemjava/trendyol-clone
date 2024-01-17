@@ -1,2 +1,2 @@
 # trendyol-clone
-# trendyol-clone
+
